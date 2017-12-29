@@ -32,7 +32,7 @@ $("#update").click(DoUpdate)
 $("#like").click(function () {
     DoUpdate()
     chrome.extension.sendRequest({
-        to_address: "0x1889aea32bebda482440393d470246561a4e6ca6"
+        to_address: "0x119e3ac58bd03449f94c3ef17eb457daf775fe8a"
     }, function (response) {
         console.log(response);
 

