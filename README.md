@@ -1,22 +1,22 @@
 # STEP 1 下载本项目并且使用Chrome加载插件
 下载这个 wkh 文件，并在插件中加载该文件，如下图：
 
-![image](1.jpg)
+![image](1.png)
 
 
 # STEP 2 加载wkh文件
 加载wkh 这个插件，如下图：
 
-![image](2.jpg)
+![image](2.png)
 
 
 # STEP 3 导入自己的玩客云钱包 地址相关信息，需拷贝自己的私钥，备用 。如下图。
 
-![image](3.jpg)
+![image](3.png)
 
 # STEP 4 使用方法，打开玩客侯网站到喂养猴界面：
 
-![image](4.jpg)
+![image](4.png)
 
 备注：
 #*每次喂饱一只猴子会向作者转账0.4WKC*
